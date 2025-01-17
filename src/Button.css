@@ -1,0 +1,49 @@
+.button {
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+
+.button.small {
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.button.medium {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.button.large {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+
+.button.blue {
+    background-color: #007bff;
+}
+
+.button.blue:hover {
+    background-color: #0056b3;
+}
+
+.button.green {
+    background-color: #28a745;
+}
+
+.button.green:hover {
+    background-color: #218838;
+}
+
+.button.red {
+    background-color: #dc3545;
+}
+
+.button.red:hover {
+    background-color: #837e7f;
+}
+
+.button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}

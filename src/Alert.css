@@ -1,0 +1,33 @@
+.alert {
+    padding: 10px 20px;
+    border-left: 4px solid;
+    border-radius: 4px;
+    margin: 10px 10px;
+}
+
+.alert-header {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.alert-body {
+    font-size: 14px;
+}
+
+.alert.green {
+    background-color: #d4edda;
+    border-color: #28a745;
+    color: #155724;
+}
+
+.alert.red {
+    background-color: #f8d7da;
+    border-color: #dc3545;
+    color: #721c24;
+}
+
+.alert.yellow {
+    background-color: #fff3cd;
+    border-color: #ffc107;
+    color: #856404;
+}

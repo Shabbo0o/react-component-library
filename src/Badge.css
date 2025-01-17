@@ -1,0 +1,46 @@
+.badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.badge.blue {
+    background-color: #007bff;
+}
+
+.badge.green {
+    background-color: #28a745;
+}
+
+.badge.red {
+    background-color: #dc3545;
+}
+
+.badge.small {
+    font-size: 10px;
+    padding: 3px 6px;
+    width: 80px;
+    height: 24px;
+}
+
+.badge.medium {
+    font-size: 12px;
+    padding: 5px 10px;
+    width: 100px;
+    height: 30px;
+}
+
+.badge.large {
+    font-size: 16px;
+    padding: 8px 12px;
+    width: 120px;
+    height: 36px;
+}
+
+.badge-icon {
+    margin-right: 5px;
+}
