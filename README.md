@@ -10,7 +10,6 @@ This project showcases various reusable React components, including Buttons, Ale
   - [Badge](#badge)
   - [Card](#card)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 
 ## Components
